@@ -8,7 +8,7 @@ by PALAK NATH
 I have taken a dataset of ‘COVID-19 Radiography Database’ with default three folders COVID, VIRAL and NORMAL PNEUMONIA. I took the two folders of Viral and Normal Pneumonia XRAY for the Classification problem given. 
 I divided the dataset into two parts: Training, Testing and Validation, I used up around 80% of data for training, remaining 19-20% for testing and kept around 9 pictures for validation prediction.
 ### STEP 3: I used a pie chart to depict the above-mentioned division of data. 
-## STEP 4: DEFINING THE TRAIN IMAGE GENERATOR: TRAINING DATA PREPROCESSING
+### STEP 4: DEFINING THE TRAIN IMAGE GENERATOR: TRAINING DATA PREPROCESSING
 I converted images to PIL format so Python can understand using the image generator. Used features such as rescale for data normalization, shear_range for transformation technique to apply on the 2D image for better understanding and zoom_range for setting range for random zoom. 
 ### STEP 5: DEFINING THE TEST IMAGE GENERATOR: TESTING DATA PREPROCESSING: 
 I converted images to PIL format so Python can understand using the image generator. Used features such as rescale for data normalization. Didn’t use the other things as I wanted my model to be ready for all kinds of images. 
