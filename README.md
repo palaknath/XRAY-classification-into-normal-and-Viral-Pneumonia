@@ -1,5 +1,7 @@
 # XRAY-classification-into-normal-and-Viral-Pneumonia
 
+Dataset: https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
+
 SUMMARY OF THE MODEL BUILT
 by PALAK NATH 
 
