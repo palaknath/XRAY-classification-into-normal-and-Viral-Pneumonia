@@ -24,7 +24,7 @@ As we are to classify only NORMAL OR VIRAL, we use binary cross entropy.
 ### STEP 8: TRAINING THE MODEL: Used 25 Epochs to train my model 
 ### STEP 9: MODEL EVALUATION: Found out Accuracy and plotted the training accuracy vs testing accuracy as well as the training loss vs testing loss. 
 ### STEP 10: MODEL VALIDATION 
-Used Prediction function to validate the model. Used confusion matrix which is a clear depiction of evaluation of models. Found the kappa values using the confusion matrix. As I couldn't find the direct code, I read about Kappa from google and calculated it manually using the arithmetic operations of python.
+Used Prediction function to validate the model. Used confusion matrix which is a clear depiction of evaluation of models. Found the kappa values using the confusion matrix. I read about Kappa from google and calculated it manually using the arithmetic operations of python.
 
 
 
